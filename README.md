@@ -5,7 +5,6 @@
 
 The **Web Portfolio Template** is a responsive and modern portfolio website designed for showcasing your skills, projects, and testimonials. This template is perfect for UI/UX designers, developers, and anyone looking to create an online presence.
 
-### Author
 - **Name**: JohnDev19
 - **Creation Date**: February 2025
 - **Last Update**: February 2025
