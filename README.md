@@ -3,7 +3,7 @@
 
 ## Overview
 
-The **Web Portfolio Template** is a responsive and modern portfolio website designed for showcasing your skills, projects, and testimonials. This template is perfect for UI/UX designers, developers, and anyone looking to create an online presence.
+The **Mark Miller** is a responsive and modern portfolio website designed for showcasing your skills and projects. This template is perfect for UI/UX designers, developers, and anyone looking to create an online presence.
 
 - **Name**: JohnDev19
 - **Creation Date**: February 2025
