@@ -41,7 +41,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-- Thanks to the open-source community for providing resources and tools that made this project possible.
 - Special thanks to [Bootstrap Icons](https://icons.getbootstrap.com/) for the icon library.
 
 Feel free to modify any sections to better fit your project or personal style!
